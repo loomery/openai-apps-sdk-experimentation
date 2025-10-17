@@ -16,6 +16,8 @@ const GLOBAL_CSS_LIST = [path.resolve("src/index.css")];
 
 const targets: string[] = [
   "hello-world",
+  "travel-buddy-itinerary",
+  "travel-buddy-spontaneous",
   "todo",
   "solar-system",
   "pizzaz",
